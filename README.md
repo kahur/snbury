@@ -32,8 +32,9 @@ composer update
 ```
 
 ### Usage
-From root/src/ directory of library run command:
+From root/src/public/ directory of library run command:
 ```bash
+cd src/public/
 php index.php
 ```
 
