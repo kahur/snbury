@@ -1,5 +1,5 @@
 {
-    "name" : "kamilhurajt/snbury",
+    "name" : "snbury",
     "version" : "1.0",
     "require": {
         "php": ">=5.3.0",

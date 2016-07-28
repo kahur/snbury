@@ -24,7 +24,6 @@ class MainController extends BaseController
         $crawler = new Crawler($page);
         
         $parser = new Parser($crawler);
-        $parser->loadItems();
         
         $products = $parser->getItems();
         
